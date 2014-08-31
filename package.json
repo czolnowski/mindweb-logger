@@ -1,0 +1,22 @@
+{
+    "name": "mindweb-logger",
+    "version": "1.0.0",
+    "description": "Console logger",
+    "author": "Marcin Czołnowski <marcin@mindweb.pl>",
+    "keywords": ["logger", "mindweb", "cli"],
+    "homepage": "http://mindweb.pl",
+    "bugs": {
+        "url" : "http://github.com/czolnowski/mindweb-logger/issues",
+        "email" : "marcin@mindweb.pl"
+    },
+    "main": "src/logger.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/czolnowski/mindweb-logger"
+    },
+    "dependencies": {
+        "colors": "0.6.2"
+    },
+    "devDependencies": {},
+    "license": "MIT"
+}
