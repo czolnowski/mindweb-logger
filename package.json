@@ -1,6 +1,6 @@
 {
     "name": "mindweb-logger",
-    "version": "1.0.1",
+    "version": "1.1.0",
     "description": "Console logger",
     "author": "Marcin Czołnowski <marcin@mindweb.pl>",
     "keywords": ["logger", "mindweb", "cli"],
